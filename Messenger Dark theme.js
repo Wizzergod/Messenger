@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Messenger Dark theme  
 // @namespace    Wizzergod
-// @version      1.0.1
+// @version      1.0.3
 // @description  Dark theme for web versioin messenger.
 // @homepageURL   https://www.twitch.tv/wizzergod
 // @supportURL    https://www.twitch.tv/wizzergod
