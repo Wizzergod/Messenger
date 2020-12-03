@@ -5,8 +5,8 @@
 // @description  Dark theme for web versioin messenger.
 // @homepageURL   https://www.twitch.tv/wizzergod
 // @supportURL    https://www.twitch.tv/wizzergod
-// @updateURL     https://raw.githubusercontent.com/Wizzergod/Messenger/main/Messenger_Dark_theme.js"
-// @downloadURL   https://raw.githubusercontent.com/Wizzergod/Messenger/main/Messenger_Dark_theme.js"
+// @updateURL     https://raw.githubusercontent.com/Wizzergod/Messenger/main/Messenger_Dark_theme.js
+// @downloadURL   https://raw.githubusercontent.com/Wizzergod/Messenger/main/Messenger_Dark_theme.js
 // @author       Wizzergod
 // @match        *://*.www.messenger.com/*
 // @match        *://*.messenger.com/*
