@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Messenger Dark theme  
 // @namespace    Wizzergod
-// @version      1.0.3
+// @version      1.0.8
 // @description  Dark theme for web versioin messenger.
 // @homepageURL   https://www.twitch.tv/wizzergod
 // @supportURL    https://www.twitch.tv/wizzergod
@@ -50,3 +50,4 @@ addGlobalStyle('._4k7a {color: #606770 !important;}');
 addGlobalStyle('._1r_9 ._53ij {box-shadow: 0 0 0 1px rgb(0, 0, 0, .35), 0 1px 10px rgba(0, 0, 0, .35) !important;}');
 addGlobalStyle('body {background: #606770 !important;');
 addGlobalStyle('body {color: #bec3c9 !important;');
+addGlobalStyle('._4gd0 {background: #606770 !important;}');
